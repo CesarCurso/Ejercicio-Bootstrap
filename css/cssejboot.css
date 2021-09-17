@@ -1,0 +1,23 @@
+
+   .htmlforma{
+       height: 150px;
+       background-color:#ff8022;
+   }
+   .cssforma{
+       height: 150px;
+       background-color: #102ed3;
+   }
+   .bootforma{
+       padding-top: 1rem;
+       height: 150px;
+       background-color: #47008e;
+   }
+   .escudos{
+       --bs-gutter-x: 0rem;
+   }
+   .boot{
+     font-family: 'Overpass', sans-serif;
+     font-size: 1rem;
+     color: white;
+    }    
+   
